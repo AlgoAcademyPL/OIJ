@@ -1,0 +1,40 @@
+{
+  "$schema": "https://raw.githubusercontent.com/AlgoAcademyPL/baza.algoacademy.pl/main/docs-config.schema.json",
+  "menu": [
+    {
+      "label": "Main examples",
+      "children": [
+        {
+          "label": "Example of markdoc",
+          "to": "overview"
+        },
+        {
+          "label": "Second example",
+          "to": "second_page"
+        }
+      ]
+    },
+    {
+      "label": "Additional",
+      "children": [
+        {
+          "label": "React Ranger",
+          "to": "react-ranger"
+        }
+      ]
+    },
+    {
+      "label": "API Reference",
+      "children": [
+        {
+          "label": "Basic",
+          "to": "api/basic"
+        },
+        {
+          "label": "Custom Steps",
+          "to": "api/custom"
+        }
+      ]
+    }
+  ]
+}
