@@ -1,9 +1,9 @@
 ---
-title: Title!
+title: Title! To jest olimpiada informatyczna Juniorów
 keywords: Seo slowa kluczowe
 ---
 
-# h1 Heading 8-)
+# Olimpiada informatyczna Juniorów
 
 text text text texttext text text texttext text text texttext text text text
 text text text texttext text text texttext text text texttext text text text
